@@ -29,4 +29,4 @@ let name = '    Sushant    '
 console.log(name.length)
 let sameName = name.trim()
 console.log(sameName.length)
-
+#sushant
