@@ -16,5 +16,6 @@ console.log(num)
 // you cannot perform arithmetic operations between bigint and number
 console.log(typeof num)
 num = 9007199254740990
+#Sushant
 
     
