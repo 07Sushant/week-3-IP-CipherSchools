@@ -28,3 +28,4 @@ if (name[0] == "S" || age<=17){
 else{
     console.log("Major")
 }
+#JavaScript
